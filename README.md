@@ -20,8 +20,8 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The files that make up this project are as follows:
-    1 - 
-    2 - 
-    3 - 
+    1 - run_analysis.R
+    2 - codebook.md
+    3 - averages.txt (results)
     
 Thank you for verify this lesson!
